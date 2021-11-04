@@ -1,3 +1,8 @@
+# ✨ Magic Eight Ball✨
+
+- Simulation of a classic kid’s toy, the Magic Eight Ball
+  - When you click on the ball, it should choose a random answer & the matching color for that answer.
+  
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
